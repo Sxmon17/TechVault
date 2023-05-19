@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Vektoren/Untitled.md",
+                "file": "Mathematik/Vektoren/Vektoren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11f51ffc4b2435a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/Vektoren/Vektoren.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Vektoren/Untitled.md",
+                "file": "Mathematik/Vektoren/Vektoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematik/Vektoren/Untitled.md",
+                "file": "Mathematik/Vektoren/Vektoren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematik/Vektoren/Untitled.md"
+                "file": "Mathematik/Vektoren/Vektoren.md"
               }
             }
           }
@@ -156,10 +169,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fd342daec7b5aeca",
+  "active": "11f51ffc4b2435a3",
   "lastOpenFiles": [
+    "Mathematik/Vektoren/Definition von Vektoren.md",
     "Mathematik/Vektoren/Vektoren.md",
-    "Mathematik/Vektoren/Untitled.md",
     "Informatik/Leitungscodierung.md",
     "2023-05-19.md",
     "Informatik/CPU.gif",
