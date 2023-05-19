@@ -2,7 +2,7 @@ Die Vektorrechnung im R^2, also im zweidimensionalen Raum, beinhaltet mehrere gr
 
 1. **Vektoren**: Ein Vektor im R^2 ist ein geordnetes Paar von Zahlen, normalerweise dargestellt als \( \vec{v} = (v_1, v_2) \). Diese Zahlen werden als die Komponenten des Vektors bezeichnet. Geometrisch kann ein Vektor als Pfeil dargestellt werden, der vom Ursprung zu einem Punkt im Raum zeigt.
 
-2. **Vektoraddition**: Zwei Vektoren können addiert werden, indem ihre entsprechenden Komponenten addiert werden. Wenn \( \vec{v} = (v_1, v_2) \) und \( \vec{w} = (w_1, w_2) \), dann ist \( \vec{v} + \vec{w} = (v_1 + w_1, v_2 + w_2) \).
+2. **Vektoraddition**: Zwei Vektoren können $$\frac{\pi}{\Sigma}$$addiert werden, indem ihre entsprechenden Komponenten addiert werden. Wenn \( \vec{v} = (v_1, v_2) \) und \( \vec{w} = (w_1, w_2) \), dann ist \( \vec{v} + \vec{w} = (v_1 + w_1, v_2 + w_2) \).
 
 3. **Skalarmultiplikation**: Ein Vektor kann mit einer Zahl, bekannt als Skalar, multipliziert werden, indem jede Komponente des Vektors mit dem Skalar multipliziert wird. Wenn \( \vec{v} = (v_1, v_2) \) und \( c \) ist ein Skalar, dann ist \( c\vec{v} = (cv_1, cv_2) \).
 
